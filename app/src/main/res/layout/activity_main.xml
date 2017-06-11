@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/demo_input" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <EditText
+            android:id="@+id/person_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_edittext"
+            android:gravity="center"
+            android:inputType="number"
+            android:hint="@string/demo_person_id" />
+
+        <EditText
+            android:id="@+id/person_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_edittext"
+            android:gravity="center"
+            android:hint="@string/demo_person_name" />
+
+        <EditText
+            android:id="@+id/person_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_edittext"
+            android:gravity="center"
+            android:inputType="number"
+            android:hint="@string/demo_person_age" />
+
+        <Spinner
+            android:id="@+id/person_gender"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_edittext"
+            android:entries="@array/gender"
+            android:spinnerMode="dropdown"
+            android:dropDownWidth="100dp"
+            />
+<!--        android:dropDownWidth="90dp"-->
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/demo_function" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/add" />
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/delete" />
+
+        <Button
+            android:id="@+id/update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/update" />
+
+        <Button
+            android:id="@+id/query"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/query" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_weight="2"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/demo_result_query" />
+
+            <TextView
+                android:id="@+id/showResult_query"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@android:color/black"
+                android:background="@drawable/bg_edittext" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/demo_result_all" />
+
+            <TextView
+                android:id="@+id/showResult_all"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@android:color/black"
+                android:background="@drawable/bg_edittext" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+
+
+

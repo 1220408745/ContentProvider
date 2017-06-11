@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/testProvider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="query"
+        android:textSize="30dp"
+        android:textColor="@android:color/black"
+        />
+    <Button
+        android:id="@+id/testProvider1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="query1"
+        android:textSize="30dp"
+        android:textColor="@android:color/black"/>
+    <Button
+        android:id="@+id/testProvider2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="query2"
+        android:textSize="30dp"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

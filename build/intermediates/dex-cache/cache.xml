@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1609486a121b6480a6a20cddbb702cd4065a76cf">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6d3554c8439eb7de8941ba63131aab13e9a59ba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\8c870d6a79b129444ed10b46540e6c86c0d119ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_143728cf6adc30a7f9989f3e44dd0d4cdda6a3b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\ae9cace86f8653919a073ba96c1b2776f207ae85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_519da3dd9b8700077f88863806df3efdc0f6c003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\34408e972724507eac608e974142f2ab9e0978a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a0eded85d02a3f364e6c9456f104c47df2ebb05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\62059b0389aa137e86bdd0c3b712ce32bd4261e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1a08d45d6aaba12317a329056c02926deb72b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\6e73ff6e34256272337536bc25b0b1ef693d3638\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edac1ad52d5ef51499df5f06d2562351c98c4aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4cc13bd438e8147d44de727fadb300667cd87d6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\9d62e6ae6a2224396df53074f5d4a5f9c336dc6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f055b12b702d1625e77291181c9dca71aec4ad83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\17f1c589b9c64e8e3cc121e839cd28c108da4ab2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18f69d3be47e8fc731f4412b31046cc0738c6bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d6522464a0fb448ea33b914be39733cdb5c23ebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b724427ea86a1d678e58efe22fe36608dd9cfc19">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5cf6bc092e94e1ca0010591ad4d6a2e8bc2c2ea2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\d542ddaf1f3662239cf278b6d6c733cfc84e5ec2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50827d77e780f0c78b918bf85b7631762a2eab88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1e4bbddbbc188a84c6f54a1d6e575a5d6f41bc91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xue.qin\.android\build-cache\9923d066859b264306e6ecdfbf3e11fdf1694162\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\CODE\GITHUB\androidSQLdemo-master\androidSQLdemo-master\customer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d6089d44e0e582e06909d177a1ba85c5b2a9935\classes.dex" />
+    </item>
+
+</items>
